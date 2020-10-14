@@ -1,0 +1,23 @@
+.text-blue {
+    color: blue;
+}
+
+.text-16 {
+    font-size: 16px;
+}
+
+.text-14 {
+    font-size: 14px;
+}
+
+#custom-p {
+    color: gray;
+    font-size: 12px;
+    text-align: right;
+} 
+
+.middle {
+    width: 50%;
+    border: 1px solid red;
+}
+
